@@ -19,13 +19,13 @@
   
 <html>
 <head>
-	<title>SaveTheWorld Software</title>
+	<title>Operating System</title>
 	<link rel ="stylesheet" type="text/css" href="sample.css" />
 </head>
 <body>
 
-	<h1>SaveTheWorld: Order Form</h1>
-	<p>To order <strong>SaveTheWorld</strong>, please complete the following order form: </p>
+	<h1>Operating System Order Form</h1>
+	<p>To order operating system, please complete the following order form: </p>
 	<p>
 		<form action = "" method = "POST" >
 			<table>
